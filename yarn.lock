@@ -1096,6 +1096,11 @@
   resolved "https://registry.yarnpkg.com/@plasmohq/init/-/init-0.6.2.tgz#b50071fee96ff9225edc5ea7cdf4c13dc077d334"
   integrity sha512-4fA29jzUU5tHpsJ3rpUEbt/jme/aCDIqolAbTWd6F7M4rJ/33q4mVQ6eIflWjUhVNcygjpjMApdT2gIrNQi0fw==
 
+"@plasmohq/messaging@^0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@plasmohq/messaging/-/messaging-0.1.6.tgz#54d3256e19034d8e2073043dea5cc97aaee8a423"
+  integrity sha512-GYryyzijju3dg3RwMGoEIuGct0vgxdBfxZH/54GPh7ZbjYvOVikyfLp7Rn9rsrGqXLdsJ8+YeHUCgQEPvBJakA==
+
 "@plasmohq/parcel-bundler@0.4.8":
   version "0.4.8"
   resolved "https://registry.yarnpkg.com/@plasmohq/parcel-bundler/-/parcel-bundler-0.4.8.tgz#c3984ad33100c8455bcdf2469ee421b605b09e54"
